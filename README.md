@@ -20,14 +20,14 @@ It enables users to **discover, book, and manage** photography sessions and venu
 ## 👥 Team & My Role
 - **Team size:** 5 developers (3 frontend, 2 backend)  
 - **My contributions:**  
-  - Implemented core features for **Venue Owner**, **Admin**, and **Moderator** roles on the web platform  
+  - Implemented core features for **Venue Owner** in the application, **Admin**, and **Moderator** roles on the web platform  
   - Built UI components, forms, and dashboards for management workflows  
   - Integrated frontend with backend APIs (authentication, booking, moderation)  
   - Assisted in deployment and bug fixing  
 - Other roles in the team:  
   - Customer module (React Native)  
   - Photographer module (React Native)  
-  - Backend developers (Node.js, MongoDB, API design, authentication, deployment)  
+  - Backend developers (.NET, mySQL, API design, authentication, deployment)  
 
 ---
 
@@ -47,7 +47,7 @@ It enables users to **discover, book, and manage** photography sessions and venu
 
 ## 📖 Documentation
 For detailed system design, workflows, and evaluation:  
-[📄 Full Thesis Report (200+ pages)](link-to-your-doc-here)
+[📄 Full Thesis Report (200+ pages)](https://drive.google.com/file/d/1XrsXNppJCTuqbZ1pe8IDTcq0AXcWPCkg/view?usp=sharing)
 
 ---
 
