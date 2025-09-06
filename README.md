@@ -52,4 +52,7 @@ For detailed system design, workflows, and evaluation:
 ---
 
 ## 📸 Screenshots
-*(Optional: add some UI screenshots or architecture diagrams here — highly recommended for recruiters.)*
+<img width="593" height="335" alt="image" src="https://github.com/user-attachments/assets/895f93dd-2d3c-4c8b-9c3e-da0ce2f17ca2" />
+<img width="592" height="324" alt="image" src="https://github.com/user-attachments/assets/dc8544df-d80b-4555-902d-55d799f2471e" />
+
+
